@@ -1,0 +1,297 @@
+Ankaragucu	Sivasspor	3 : 1	
+Erzurum BB	Fenerbahce	0 : 1	
+Alanyaspor	Rizespor	1 : 1	
+Galatasaray	Basaksehir	2 : 1	
+Akhisarspor	Kayserispor	2 : 2	
+Bursaspor	Goztepe	0 : 0	
+Antalyaspor	Malatyaspor 	3 : 0	
+Trabzonspor	Besiktas	2 : 1	
+Kasimpasa	Konyaspor	1 : 1	
+Besiktas	Alanyaspor	2 : 1	
+Basaksehir	Ankaragucu	2 : 1	
+Malatyaspor	Erzurum BB	3 : 1	
+Kayserispor	Kasimpasa 	2 : 1	
+Konyaspor	Trabzonspor	2 : 2	
+Fenerbahce	Akhisarspor	2 : 1	
+Goztepe 	Sivasspor	3 : 3	
+Rizespor 	Galatasaray	2 : 3	
+Antalyaspor 	Bursaspor	0 : 1	
+Alanyaspor	Konyaspor	2 : 4	
+Trabzonspor	Kayserispor	4 : 2	
+Galatasaray	Besiktas	2 : 0	
+Akhisarspor	Malatyaspor	0 : 2	
+Goztepe	Antalyaspor 	4 : 1	
+Kasimpasa	Fenerbahce	1 : 3	
+Ankaragucu	Rizespor	2 : 2	
+Erzurum BB	Bursaspor	2 : 0	
+Sivasspor	Basaksehir	0 : 0	
+Konyaspor	Galatasaray	0 : 0	
+Malatyaspor	Kasimpasa	2 : 1	
+Besiktas	Ankaragucu	4 : 1	
+Bursaspor	Akhisarspor	0 : 0	
+Kayserispor	Alanyaspor	1 : 1	
+Fenerbahce 	Trabzonspor	1 : 1	
+Antalyaspor	Erzurum BB	1 : 1	
+Rizespor	Sivasspor	0 : 0	
+Basaksehir	Goztepe	0 : 2	
+Sivasspor	Besiktas	1 : 2	
+Alanyaspor	Fenerbahce	1 : 0	
+Basaksehir	Rizespor	1 : 1	
+Ankaragucu	Konyaspor	0 : 0	
+Galatasaray	Kayserispor 	3 : 1	
+Goztepe	Erzurum BB	0 : 1	
+Akhisarspor	Antalyaspor	1 : 2	
+Trabzonspor	Malatyaspor 	2 : 1	
+Kasimpasa	Bursaspor	1 : 1	
+Erzurum BB	Akhisarspor	2 : 1	
+Fenerbahce 	Galatasaray	1 : 1	
+Antalyaspor 	Kasimpasa	1 : 0	
+Malatyaspor 	Alanyaspor 	1 : 1	
+Kayserispor	Ankaragucu	0 : 2	
+Besiktas	Basaksehir	2 : 1	
+Konyaspor	Sivasspor	1 : 1	
+Rizespor	Goztepe	1 : 0	
+Bursaspor	Trabzonspor	0 : 1	
+Rizespor	Besiktas	2 : 7	
+Basaksehir	Konyaspor	2 : 0	
+Ankaragucu 	Fenerbahce 	1 : 1	
+Goztepe	Akhisarspor	0 : 1	
+Kasimpasa	Erzurum BB	2 : 1	
+Galatasaray	Malatyaspor	3 : 0	
+Alanyaspor	Bursaspor	1 : 0	
+Sivasspor	Kayserispor	1 : 3	
+Trabzonspor	Antalyaspor	4 : 1	
+Bursaspor	Galatasaray	2 : 3	
+Kayserispor	Basaksehir	1 : 1	
+Malatyaspor	Ankaragucu	3 : 1	
+Antalyaspor	Alanyaspor	3 : 0	
+Besiktas	Goztepe	1 : 0	
+Akhisarspor	Kasimpasa	2 : 3	
+Erzurum BB	Trabzonspor	0 : 1	
+Konyaspor 	Rizespor	0 : 2	
+Fenerbahce	Sivasspor	2 : 1	
+Galatasaray	Antalyaspor	5 : 0	
+Besiktas	Konyaspor	3 : 2	
+Goztepe	Kasimpasa	0 : 0	
+Rizespor	Kayserispor	3 : 0	
+Alanyaspor	Erzurum BB	2 : 1	
+Ankaragucu	Bursaspor	0 : 0	
+Basaksehir	Fenerbahce	2 : 1	
+Trabzonspor	Akhisarspor	2 : 1	
+Sivasspor	Malatyaspor	2 : 0	
+Akhisarspor	Alanyaspor	3 : 1	
+Kasimpasa	Trabzonspor	2 : 2	
+Erzurum BB	Galatasaray	1 : 1	
+Malatyaspor	Basaksehir	0 : 2	
+Konyaspor	Goztepe 	1 : 1	
+Fenerbahce	Rizespor 	3 : 2	
+Bursaspor	Sivasspor	3 : 2	
+Kayserispor	Besiktas	2 : 2	
+Antalyaspor	Ankaragucu	2 : 4	
+Besiktas	Fenerbahce	3 : 3	
+Basaksehir	Bursaspor	3 : 0	
+Galatasaray	Akhisarspor	1 : 0	
+Konyaspor	Kayserispor	0 : 1	
+Ankaragucu	Erzurum BB 	2 : 1	
+Alanyaspor	Kasimpasa 	3 : 0	
+Sivasspor	Antalyaspor	1 : 2	
+Goztepe	Trabzonspor	1 : 3	
+Rizespor	Malatyaspor	3 : 0	
+Antalyaspor	Basaksehir	0 : 1	
+Kasimpasa	Galatasaray	1 : 4	
+Kayserispor	Goztepe	2 : 1	
+Trabzonspor	Alanyaspor	0 : 2	
+Erzurum BB	Sivasspor	4 : 2	
+Fenerbahce	Konyaspor 	1 : 1	
+Bursaspor	Rizespor	0 : 2	
+Akhisarspor	Ankaragucu 	0 : 0	
+Malatyaspor 	Besiktas	1 : 2	
+Ankaragucu	Kasimpasa	3 : 0	
+Sivasspor 	Akhisarspor	2 : 1	
+Galatasaray	Trabzonspor	3 : 1	
+Goztepe 	Alanyaspor	3 : 2	
+Konyaspor	Malatyaspor	1 : 1	
+Besiktas	Bursaspor	2 : 0	
+Basaksehir	Erzurum BB	1 : 1	
+Rizespor	Antalyaspor	1 : 1	
+Kayserispor	Fenerbahce 	1 : 0	
+Bursaspor	Konyaspor	0 : 0	
+Antalyaspor	Besiktas	2 : 6	
+Akhisarspor	Basaksehir	0 : 3	
+Erzurum BB	Rizespor	0 : 1	
+Alanyaspor	Galatasaray	1 : 1	
+Kasimpasa	Sivasspor	1 : 3	
+Trabzonspor	Ankaragucu	1 : 0	
+Malatyaspor	Kayserispor	1 : 1	
+Fenerbahce	Goztepe 	2 : 0	
+Ankaragucu	Alanyaspor	0 : 2	
+Basaksehir	Kasimpasa	2 : 0	
+Fenerbahce	Malatyaspor	3 : 2	
+Sivasspor	Trabzonspor	1 : 1	
+Konyaspor	Antalyaspor	2 : 0	
+Rizespor	Akhisarspor 	3 : 1	
+Goztepe	Galatasaray	0 : 1	
+Kayserispor 	Bursaspor	1 : 1	
+Besiktas 	Erzurum BB	1 : 1	
+Bursaspor	Fenerbahce	1 : 1	
+Kasimpasa	Rizespor	0 : 1	
+Trabzonspor	Basaksehir	2 : 4	
+Alanyaspor	Sivasspor	2 : 0	
+Galatasaray	Ankaragucu	6 : 0	
+Antalyaspor	Kayserispor	0 : 0	
+Erzurum BB	Konyaspor	1 : 2	
+Malatyaspor	Goztepe	3 : 2	
+Akhisarspor	Besiktas	0 : 3	
+Akhisarspor	Konyaspor	0 : 0	
+Antalyaspor	Fenerbahce 	0 : 0	
+Galatasaray	Sivasspor	4 : 2	
+Bursaspor	Malatyaspor 	1 : 1	
+Trabzonspor	Rizespor	4 : 1	
+Erzurum BB	Kayserispor	1 : 1	
+Kasimpasa	Besiktas	4 : 1	
+Alanyaspor 	Basaksehir	1 : 1	
+Ankaragucu	Goztepe	0 : 3	
+Fenerbahce	Erzurum BB	2 : 2	
+Besiktas	Trabzonspor	2 : 2	
+Kayserispor	Akhisarspor	1 : 0	
+Malatyaspor 	Antalyaspor 	2 : 0	
+Basaksehir	Galatasaray	1 : 1	
+Konyaspor	Kasimpasa	3 : 2	
+Rizespor	Alanyaspor	1 : 1	
+Sivasspor	Ankaragucu	4 : 0	
+Goztepe	Bursaspor	0 : 0	
+Ankaragucu	Basaksehir	0 : 1	
+Kasimpasa	Kayserispor	0 : 3	
+Akhisarspor	Fenerbahce	3 : 0	
+Bursaspor	Antalyaspor	0 : 2	
+Erzurum BB	Malatyaspor	1 : 3	
+Galatasaray	Rizespor	2 : 2	
+Trabzonspor	Konyaspor	3 : 0	
+Sivasspor	Goztepe 	2 : 0	
+Alanyaspor	Besiktas	0 : 0	
+Fenerbahce	Kasimpasa	2 : 2	
+Malatyaspor	Akhisarspor	1 : 1	
+Besiktas	Galatasaray	1 : 0	
+Bursaspor	Erzurum BB	2 : 1	
+Kayserispor	Trabzonspor	0 : 2	
+Antalyaspor	Goztepe	1 : 0	
+Basaksehir	Sivasspor	0 : 1	
+Konyaspor	Alanyaspor 	2 : 0	
+Rizespor	Ankaragucu	1 : 1	
+Goztepe	Basaksehir	0 : 2	
+Kasimpasa	Malatyaspor	3 : 0	
+Trabzonspor	Fenerbahce	2 : 1	
+Akhisarspor	Bursaspor	2 : 4	
+Sivasspor 	Rizespor	1 : 1	
+Ankaragucu	Besiktas	1 : 4	
+Alanyaspor	Kayserispor	5 : 0	
+Erzurum BB	Antalyaspor	1 : 0	
+Galatasaray 	Konyaspor	1 : 1	
+Besiktas	Sivasspor	1 : 2	
+Antalyaspor	Akhisarspor	1 : 2	
+Fenerbahce	Alanyaspor	2 : 0	
+Bursaspor	Kasimpasa	1 : 2	
+Kayserispor 	Galatasaray	0 : 3	
+Rizespor	Basaksehir	1 : 2	
+Erzurum BB	Goztepe	2 : 1	
+Konyaspor	Ankaragucu	2 : 0	
+Malatyaspor	Trabzonspor	5 : 0	
+Goztepe	Rizespor	2 : 0	
+Sivasspor	Konyaspor 	0 : 0	
+Trabzonspor	Bursaspor	1 : 1	
+Alanyaspor	Malatyaspor	0 : 1	
+Ankaragucu	Kayserispor 	3 : 1	
+Basaksehir	Besiktas	1 : 0	
+Akhisarspor	Erzurum BB	1 : 1	
+Kasimpasa	Antalyaspor	1 : 2	
+Galatasaray 	Fenerbahce 	2 : 2	
+Akhisarspor	Goztepe	1 : 0	
+Besiktas	Rizespor 	4 : 1	
+Fenerbahce 	Ankaragucu	1 : 3	
+Malatyaspor	Galatasaray	2 : 0	
+Kayserispor	Sivasspor 	2 : 0	
+Antalyaspor	Trabzonspor	1 : 1	
+Konyaspor	Basaksehir	0 : 1	
+Erzurum BB 	Kasimpasa	1 : 1	
+Bursaspor	Alanyaspor	2 : 0	
+Trabzonspor	Erzurum BB	0 : 0	
+Goztepe	Besiktas	2 : 0	
+Alanyaspor 	Antalyaspor	0 : 1	
+Ankaragucu	Malatyaspor	1 : 0	
+Rizespor 	Konyaspor	1 : 1	
+Sivasspor	Fenerbahce	0 : 0	
+Basaksehir	Kayserispor	1 : 0	
+Kasimpasa	Akhisarspor	5 : 0	
+Galatasaray	Bursaspor	1 : 1	
+Konyaspor	Besiktas 	2 : 2	
+Akhisarspor	Trabzonspor	1 : 3	
+Fenerbahce	Basaksehir	0 : 0	
+Malatyaspor	Sivasspor 	4 : 4	
+Antalyaspor	Galatasaray	0 : 1	
+Bursaspor	Ankaragucu	1 : 0	
+Erzurum BB	Alanyaspor	1 : 0	
+Kayserispor 	Rizespor 	2 : 2	
+Kasimpasa	Goztepe	3 : 1	
+Ankaragucu	Antalyaspor	0 : 1	
+Basaksehir	Malatyaspor	1 : 1	
+Rizespor	Fenerbahce	3 : 0	
+Goztepe	Konyaspor	3 : 2	
+Sivasspor	Bursaspor	2 : 0	
+Besiktas	Kayserispor	2 : 0	
+Alanyaspor 	Akhisarspor	2 : 1	
+Trabzonspor	Kasimpasa	4 : 2	
+Galatasaray	Erzurum BB	1 : 0	
+Fenerbahce	Besiktas 	1 : 1	
+Akhisarspor	Galatasaray	3 : 0	
+Antalyaspor	Sivasspor	2 : 1	
+Kasimpasa	Alanyaspor	1 : 2	
+Trabzonspor	Goztepe	1 : 2	
+Kayserispor	Konyaspor	0 : 2	
+Malatyaspor	Rizespor 	1 : 0	
+Bursaspor	Basaksehir	0 : 0	
+Erzurum BB	Ankaragucu 	0 : 1	
+Alanyaspor	Trabzonspor	1 : 0	
+Konyaspor	Fenerbahce	0 : 1	
+Rizespor	Bursaspor	1 : 1	
+Basaksehir	Antalyaspor	4 : 0	
+Sivasspor	Erzurum BB	2 : 2	
+Besiktas 	Malatyaspor	2 : 1	
+Goztepe	Kayserispor	2 : 0	
+Ankaragucu	Akhisarspor	1 : 0	
+Galatasaray	Kasimpasa	4 : 1	
+Antalyaspor 	Rizespor 	2 : 1	
+Bursaspor	Besiktas	1 : 1	
+Erzurum BB	Basaksehir	0 : 1	
+Kasimpasa	Ankaragucu	2 : 1	
+Alanyaspor	Goztepe	1 : 0	
+Trabzonspor	Galatasaray 	4 : 0	
+Akhisarspor	Sivasspor	1 : 1	
+Fenerbahce	Kayserispor 	2 : 3	
+Malatyaspor	Konyaspor	0 : 1	
+Galatasaray	Alanyaspor	6 : 0	
+Basaksehir	Akhisarspor	3 : 1	
+Besiktas	Antalyaspor	2 : 3	
+Konyaspor	Bursaspor	1 : 1	
+Sivasspor	Kasimpasa	0 : 3	
+Goztepe	Fenerbahce	1 : 0	
+Kayserispor	Malatyaspor	0 : 0	
+Ankaragucu	Trabzonspor	2 : 2	
+Rizespor	Erzurum BB	0 : 0	
+Kasimpasa	Basaksehir	2 : 1	
+Alanyaspor 	Ankaragucu 	0 : 2	
+Galatasaray	Goztepe	1 : 0	
+Akhisarspor 	Rizespor	1 : 1	
+Erzurum BB	Besiktas	1 : 3	
+Antalyaspor	Konyaspor 	3 : 3	
+Malatyaspor	Fenerbahce	1 : 0	
+Bursaspor	Kayserispor	0 : 0	
+Trabzonspor	Sivasspor	3 : 1	
+Kayserispor	Antalyaspor 	2 : 0	
+Besiktas	Akhisarspor	2 : 1	
+Goztepe 	Malatyaspor 	1 : 3	
+Basaksehir	Trabzonspor	2 : 0	
+Konyaspor	Erzurum BB	3 : 2	
+Fenerbahce	Bursaspor	2 : 1	
+Rizespor	Kasimpasa	2 : 3	
+Sivasspor	Alanyaspor	1 : 0	
+Ankaragucu	Galatasaray	1 : 3
